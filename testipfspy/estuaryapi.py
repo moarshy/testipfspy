@@ -9,7 +9,7 @@ __all__ = ['est_get_viewer', 'list_pins', 'add_pin', 'get_pin', 'replace_pin', '
 
 # %% ../nbs/02_estuaryapi.ipynb 3
 import requests
-from ipfspy.utils import parse_response
+from .utils import parse_response
 
 # %% ../nbs/02_estuaryapi.ipynb 4
 def est_get_viewer(

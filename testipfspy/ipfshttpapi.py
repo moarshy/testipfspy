@@ -14,7 +14,7 @@ import dag_cbor
 from requests.exceptions import HTTPError
 import time
 
-from ipfspy.utils import parse_error_message, parse_response, IPFSGateway, GATEWAY_MAP
+from .utils import parse_error_message, parse_response, IPFSGateway, GATEWAY_MAP
 
 from ipfshttpclient.multipart import stream_files, stream_directory
 
