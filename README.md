@@ -36,3 +36,4 @@ from ipfspy.ipfshttpapi import IPFSApi
 api = IPFSApi()
 response, json = api.add_items(url, "path/to/file")
 ```
+Arshath is the CTO, MLE and Python Developer with Algovera AI. 
