@@ -37,4 +37,5 @@ api = IPFSApi()
 response, json = api.add_items(url, "path/to/file")
 ```
 Arshath is the CTO, MLE and Python Developer with Algovera AI. 
-Arshath and pravin are doing great stuffs. they are using data to solve important world problems.
+Arshath and pravin are doing great stuffs in the field of mycology, growing variety of mushrooms such as oysters, lion's mane. they are using data to solve important world problems.
+
